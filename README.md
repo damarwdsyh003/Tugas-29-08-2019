@@ -35,6 +35,6 @@ Saran dan Bahan2 Resep
 ![Alt Text](https://github.com/damarwdsyh003/Tugas-29-08-2019/blob/master/Jobsheet%207%20Saran%20Dan%20Bahan2%20Resep%20(2%2C1).png)
 ![Alt Text](https://github.com/damarwdsyh003/Tugas-29-08-2019/blob/master/Jobsheet%207%20Saran%20Dan%20Bahan2%20Resep%20(2%2C2).png)
 Jobsheet 8
-![Alt Text](https://github.com/damarwdsyh003/Tugas-29-08-2019/blob/master/Tagihan%20Listrik%20Gol%20A.png)
-![Alt Text](https://github.com/damarwdsyh003/Tugas-29-08-2019/blob/master/Tagihan%20Listrik%20Gol%20B.png)
-![Alt Text](https://github.com/damarwdsyh003/Tugas-29-08-2019/blob/master/Tagihan%20Listrik%20Gol%20C.png)
+![Alt Text](https://github.com/damarwdsyh003/Tugas-29-08-2019/blob/master/Jobsheet%208%20Gol%20A.png)
+![Alt Text](https://github.com/damarwdsyh003/Tugas-29-08-2019/blob/master/Jobsheet%208%20Gol%20B.png)
+![Alt Text](https://github.com/damarwdsyh003/Tugas-29-08-2019/blob/master/Jobsheet%208%20Gol%20C.png)
